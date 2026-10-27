@@ -16,8 +16,8 @@ Công nghệ: React, Node.js/Express, MongoDB Atlas, Docker, Docker Hub, Render.
 | Trường | Link |
 |---|---|
 | Link_GitHub | https://github.com/lekhanhduy239647-sys/239647_LeKhanhDuy |
-| Link_Docker_Backend | https://hub.docker.com/r/239647lekhanhduy/backend |
-| Link_Docker_Frontend | https://hub.docker.com/r/239647lekhanhduy/frontend |
+| Link_Docker_Backend | https://hub.docker.com/repository/docker/lekhanhduymssv239647/backend/general |
+| Link_Docker_Frontend | https://hub.docker.com/repository/docker/lekhanhduymssv239647/frontend/general |
 | Link_Render_App | https://web-239647.onrender.com |
 | Link_Render_API | https://api-239647.onrender.com |
-| Link_Data_MongoDB | (điền sau ở Câu 9) |
+| Link_Data_MongoDB | mongodb+srv://lekhanhduy239647_db_user:aXNdtZHvUqIfLlhJ@lekhanhduy239647.bjkkljt.mongodb.net/239647_LeKhanhDuy?retryWrites=true&w=majority |
