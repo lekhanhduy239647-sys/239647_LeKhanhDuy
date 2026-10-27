@@ -2,7 +2,7 @@
 
 - Họ tên: Lê Khánh Duy
 - MSSV: 239647
-- Lớp: TÊN LỚP
+- Lớp: DH23TIN10
 
 Mô tả: ứng dụng quản lý hồ sơ nhân viên (xem, thêm, tìm kiếm, sửa, xóa).
 
