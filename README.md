@@ -20,4 +20,4 @@ Công nghệ: React, Node.js/Express, MongoDB Atlas, Docker, Docker Hub, Render.
 | Link_Docker_Frontend | https://hub.docker.com/repository/docker/lekhanhduymssv239647/frontend/general |
 | Link_Render_App | https://web-239647.onrender.com |
 | Link_Render_API | https://api-239647.onrender.com |
-| Link_Data_MongoDB | mongodb+srv://lekhanhduy239647_db_user:aXNdtZHvUqIfLlhJ@lekhanhduy239647.bjkkljt.mongodb.net/239647_LeKhanhDuy?retryWrites=true&w=majority |
+| Link_Data_MongoDB | mongodb+srv://lekhanhduy239647_db_user:Duy2005@lekhanhduy239647.bjkkljt.mongodb.net/239647_LeKhanhDuy?retryWrites=true&w=majority |
